@@ -1,0 +1,34 @@
+{
+  "name": "slack-iac",
+  "version": "1.0.0",
+  "description": "Declarative Slack's slash commands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youles/slack-iac.git"
+  },
+  "keywords": [
+    "slack",
+    "iac",
+    "slash",
+    "commands",
+    "bot",
+    "api",
+    "command",
+    "infraestructure",
+    "as",
+    "code"
+  ],
+  "bin": {
+    "slack-iac": "./index.js"
+  },
+  "author": "Youles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youles/slack-iac/issues"
+  },
+  "homepage": "https://github.com/youles/slack-iac#readme"
+}
