@@ -1,0 +1,18 @@
+{
+    "app":  "app id",
+    "baseUrl" : "baseUrl for url/urlSuffix",
+    "actionsWebhook" : "URLf for Actions Webhook",
+    "workspace":  "slackWorkspace",
+    "username": "slackUsername",
+    "password": "slackPassword",
+    "userDataDir": "/Users/USERNAME/Library/Application Support/Google/Chrome/Default",
+    "executablePath": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    "commands": [
+      {
+        "name": "slash_command",
+        "desc": "Slash command example",
+        "urlSuffix": "slashCommand",
+        "usage": "[command]"
+      }
+    ]
+  }
