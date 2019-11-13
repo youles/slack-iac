@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/youles/slack-iac/issues"
   },
-  "homepage": "https://github.com/youles/slack-iac#readme"
+  "homepage": "https://github.com/youles/slack-iac#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "puppeteer-core": "^2.0.0"
+  }
 }

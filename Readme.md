@@ -4,6 +4,8 @@ Tool to add multiple slash commands to an slack app.
 To run:
 
 ```
+npm install
+
 node index.js config.json
 ```
 
