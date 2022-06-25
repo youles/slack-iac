@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/youles/slack-iac#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "puppeteer-core": "^2.0.0"
   }
 }
